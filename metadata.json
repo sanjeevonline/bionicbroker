@@ -1,0 +1,7 @@
+{
+  "name": "Bionic Brokerage Suite",
+  "description": "A high-end real estate dashboard featuring an AI Concierge, automated marketing generation, and predictive seller analytics for elite brokerages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
